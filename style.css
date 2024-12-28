@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(37, 37, 37);
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    margin-top: 25%;
+}
+
+button{
+    padding: 10px 100px;
+    border: none;
+    border-radius: 25px 0 25px 0;
+}
+
+div{
+    color: rgb(255,255,255);
+    text-align: center;
+    font-size: serif;
+}
